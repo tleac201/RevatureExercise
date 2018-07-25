@@ -1,0 +1,4 @@
+C:\Users\Tyler\Documents\RevatureExercise\obj\Debug\netcoreapp2.1\RevatureExercise.csprojAssemblyReference.cache
+C:\Users\Tyler\Documents\RevatureExercise\obj\Debug\netcoreapp2.1\RevatureExercise.csproj.CoreCompileInputs.cache
+C:\Users\Tyler\Documents\RevatureExercise\obj\Debug\netcoreapp2.1\RevatureExercise.AssemblyInfoInputs.cache
+C:\Users\Tyler\Documents\RevatureExercise\obj\Debug\netcoreapp2.1\RevatureExercise.AssemblyInfo.cs
